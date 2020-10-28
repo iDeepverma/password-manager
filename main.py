@@ -1,5 +1,8 @@
 import data
 import login
+import pip
+
+pip.main(['install','PyNacl'])
 
 x = "--->Hello This is a simple password manager<---" \
     "\n--->Given below are your commands" \
