@@ -1,2 +1,4 @@
 # password-manager
-# This was a project by Deepanshu verma
+# It needs PyNaCl in order to work
+To install PyNaCl via pip: - 
+pip install PyNaCl
